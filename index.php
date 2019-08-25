@@ -38,8 +38,8 @@ if( isset( $_POST['action'] ) && $_POST['action'] == 'slugify' ){
 		<style>#results{cursor:pointer;}</style>
 	</head>
 	<body>
-		<div class="hekllofdsafsdaf"></div>
-		<div class="hekllo"></div>
+		<div class="hekllofdsafsdaffasdfas"></div>
+		<div class="hekllo122335"></div>
 		<section class="container">
 			<div class="row">
 				<div class="colxs-12 col-sm-12">
